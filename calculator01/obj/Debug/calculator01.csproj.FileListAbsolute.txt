@@ -1,0 +1,10 @@
+C:\Users\a1030\source\repos\calculator01\calculator01\bin\Debug\calculator01.exe.config
+C:\Users\a1030\source\repos\calculator01\calculator01\bin\Debug\calculator01.exe
+C:\Users\a1030\source\repos\calculator01\calculator01\bin\Debug\calculator01.pdb
+C:\Users\a1030\source\repos\calculator01\calculator01\obj\Debug\calculator01.csprojAssemblyReference.cache
+C:\Users\a1030\source\repos\calculator01\calculator01\obj\Debug\calculator01.Properties.Resources.resources
+C:\Users\a1030\source\repos\calculator01\calculator01\obj\Debug\calculator01.csproj.GenerateResource.cache
+C:\Users\a1030\source\repos\calculator01\calculator01\obj\Debug\calculator01.csproj.CoreCompileInputs.cache
+C:\Users\a1030\source\repos\calculator01\calculator01\obj\Debug\calculator01.exe
+C:\Users\a1030\source\repos\calculator01\calculator01\obj\Debug\calculator01.pdb
+C:\Users\a1030\source\repos\calculator01\calculator01\obj\Debug\calculator01.MachiCaculator.resources
