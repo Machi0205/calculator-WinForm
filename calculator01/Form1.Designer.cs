@@ -56,20 +56,20 @@
             // textBox1
             // 
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("新細明體", 40F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.textBox1.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.textBox1.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.textBox1.Location = new System.Drawing.Point(12, 81);
+            this.textBox1.Location = new System.Drawing.Point(10, 67);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(357, 64);
+            this.textBox1.Size = new System.Drawing.Size(799, 54);
             this.textBox1.TabIndex = 2;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // num0
             // 
             this.num0.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num0.Location = new System.Drawing.Point(14, 395);
+            this.num0.Location = new System.Drawing.Point(10, 378);
             this.num0.Name = "num0";
-            this.num0.Size = new System.Drawing.Size(162, 61);
+            this.num0.Size = new System.Drawing.Size(399, 61);
             this.num0.TabIndex = 18;
             this.num0.Text = "0";
             this.num0.UseVisualStyleBackColor = true;
@@ -78,9 +78,9 @@
             // dot
             // 
             this.dot.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.dot.Location = new System.Drawing.Point(176, 395);
+            this.dot.Location = new System.Drawing.Point(410, 378);
             this.dot.Name = "dot";
-            this.dot.Size = new System.Drawing.Size(81, 61);
+            this.dot.Size = new System.Drawing.Size(199, 61);
             this.dot.TabIndex = 19;
             this.dot.Text = ".";
             this.dot.UseVisualStyleBackColor = true;
@@ -89,9 +89,9 @@
             // num3
             // 
             this.num3.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num3.Location = new System.Drawing.Point(176, 334);
+            this.num3.Location = new System.Drawing.Point(410, 317);
             this.num3.Name = "num3";
-            this.num3.Size = new System.Drawing.Size(81, 61);
+            this.num3.Size = new System.Drawing.Size(199, 61);
             this.num3.TabIndex = 22;
             this.num3.Text = "3";
             this.num3.UseVisualStyleBackColor = true;
@@ -100,9 +100,9 @@
             // num1
             // 
             this.num1.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num1.Location = new System.Drawing.Point(14, 334);
+            this.num1.Location = new System.Drawing.Point(10, 317);
             this.num1.Name = "num1";
-            this.num1.Size = new System.Drawing.Size(81, 61);
+            this.num1.Size = new System.Drawing.Size(199, 61);
             this.num1.TabIndex = 21;
             this.num1.Text = "1";
             this.num1.UseVisualStyleBackColor = true;
@@ -111,9 +111,9 @@
             // num2
             // 
             this.num2.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num2.Location = new System.Drawing.Point(95, 334);
+            this.num2.Location = new System.Drawing.Point(210, 317);
             this.num2.Name = "num2";
-            this.num2.Size = new System.Drawing.Size(81, 61);
+            this.num2.Size = new System.Drawing.Size(199, 61);
             this.num2.TabIndex = 20;
             this.num2.Text = "2";
             this.num2.UseVisualStyleBackColor = true;
@@ -122,9 +122,9 @@
             // num6
             // 
             this.num6.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num6.Location = new System.Drawing.Point(176, 273);
+            this.num6.Location = new System.Drawing.Point(410, 256);
             this.num6.Name = "num6";
-            this.num6.Size = new System.Drawing.Size(81, 61);
+            this.num6.Size = new System.Drawing.Size(199, 61);
             this.num6.TabIndex = 25;
             this.num6.Text = "6";
             this.num6.UseVisualStyleBackColor = true;
@@ -133,9 +133,9 @@
             // num4
             // 
             this.num4.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num4.Location = new System.Drawing.Point(14, 273);
+            this.num4.Location = new System.Drawing.Point(10, 256);
             this.num4.Name = "num4";
-            this.num4.Size = new System.Drawing.Size(81, 61);
+            this.num4.Size = new System.Drawing.Size(199, 61);
             this.num4.TabIndex = 24;
             this.num4.Text = "4";
             this.num4.UseVisualStyleBackColor = true;
@@ -144,9 +144,9 @@
             // num5
             // 
             this.num5.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num5.Location = new System.Drawing.Point(95, 273);
+            this.num5.Location = new System.Drawing.Point(210, 256);
             this.num5.Name = "num5";
-            this.num5.Size = new System.Drawing.Size(81, 61);
+            this.num5.Size = new System.Drawing.Size(199, 61);
             this.num5.TabIndex = 23;
             this.num5.Text = "5";
             this.num5.UseVisualStyleBackColor = true;
@@ -155,9 +155,9 @@
             // num9
             // 
             this.num9.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num9.Location = new System.Drawing.Point(176, 212);
+            this.num9.Location = new System.Drawing.Point(410, 195);
             this.num9.Name = "num9";
-            this.num9.Size = new System.Drawing.Size(81, 61);
+            this.num9.Size = new System.Drawing.Size(199, 61);
             this.num9.TabIndex = 28;
             this.num9.Text = "9";
             this.num9.UseVisualStyleBackColor = true;
@@ -166,9 +166,9 @@
             // num7
             // 
             this.num7.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num7.Location = new System.Drawing.Point(14, 212);
+            this.num7.Location = new System.Drawing.Point(10, 195);
             this.num7.Name = "num7";
-            this.num7.Size = new System.Drawing.Size(81, 61);
+            this.num7.Size = new System.Drawing.Size(199, 61);
             this.num7.TabIndex = 27;
             this.num7.Text = "7";
             this.num7.UseVisualStyleBackColor = true;
@@ -177,9 +177,9 @@
             // num8
             // 
             this.num8.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.num8.Location = new System.Drawing.Point(95, 212);
+            this.num8.Location = new System.Drawing.Point(210, 195);
             this.num8.Name = "num8";
-            this.num8.Size = new System.Drawing.Size(81, 61);
+            this.num8.Size = new System.Drawing.Size(199, 61);
             this.num8.TabIndex = 26;
             this.num8.Text = "8";
             this.num8.UseVisualStyleBackColor = true;
@@ -188,9 +188,9 @@
             // plus
             // 
             this.plus.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.plus.Location = new System.Drawing.Point(258, 212);
+            this.plus.Location = new System.Drawing.Point(610, 195);
             this.plus.Name = "plus";
-            this.plus.Size = new System.Drawing.Size(56, 122);
+            this.plus.Size = new System.Drawing.Size(99, 122);
             this.plus.TabIndex = 30;
             this.plus.Text = "+";
             this.plus.UseVisualStyleBackColor = true;
@@ -199,9 +199,9 @@
             // minus
             // 
             this.minus.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.minus.Location = new System.Drawing.Point(258, 334);
+            this.minus.Location = new System.Drawing.Point(610, 317);
             this.minus.Name = "minus";
-            this.minus.Size = new System.Drawing.Size(56, 61);
+            this.minus.Size = new System.Drawing.Size(99, 61);
             this.minus.TabIndex = 31;
             this.minus.Text = "-";
             this.minus.UseVisualStyleBackColor = true;
@@ -210,9 +210,9 @@
             // equal
             // 
             this.equal.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.equal.Location = new System.Drawing.Point(258, 396);
+            this.equal.Location = new System.Drawing.Point(610, 378);
             this.equal.Name = "equal";
-            this.equal.Size = new System.Drawing.Size(113, 60);
+            this.equal.Size = new System.Drawing.Size(199, 60);
             this.equal.TabIndex = 32;
             this.equal.Text = "=";
             this.equal.UseVisualStyleBackColor = true;
@@ -221,9 +221,9 @@
             // clear
             // 
             this.clear.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.clear.Location = new System.Drawing.Point(14, 151);
+            this.clear.Location = new System.Drawing.Point(10, 134);
             this.clear.Name = "clear";
-            this.clear.Size = new System.Drawing.Size(81, 61);
+            this.clear.Size = new System.Drawing.Size(199, 61);
             this.clear.TabIndex = 33;
             this.clear.Text = "C";
             this.clear.UseVisualStyleBackColor = true;
@@ -232,9 +232,9 @@
             // divide
             // 
             this.divide.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.divide.Location = new System.Drawing.Point(315, 273);
+            this.divide.Location = new System.Drawing.Point(710, 256);
             this.divide.Name = "divide";
-            this.divide.Size = new System.Drawing.Size(56, 61);
+            this.divide.Size = new System.Drawing.Size(99, 61);
             this.divide.TabIndex = 34;
             this.divide.Text = "/";
             this.divide.UseVisualStyleBackColor = true;
@@ -243,9 +243,9 @@
             // mult
             // 
             this.mult.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.mult.Location = new System.Drawing.Point(315, 212);
+            this.mult.Location = new System.Drawing.Point(710, 195);
             this.mult.Name = "mult";
-            this.mult.Size = new System.Drawing.Size(56, 61);
+            this.mult.Size = new System.Drawing.Size(99, 61);
             this.mult.TabIndex = 35;
             this.mult.Text = "*";
             this.mult.UseVisualStyleBackColor = true;
@@ -254,19 +254,20 @@
             // negative
             // 
             this.negative.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.negative.Location = new System.Drawing.Point(315, 334);
+            this.negative.Location = new System.Drawing.Point(710, 317);
             this.negative.Name = "negative";
-            this.negative.Size = new System.Drawing.Size(56, 61);
+            this.negative.Size = new System.Drawing.Size(99, 61);
             this.negative.TabIndex = 39;
             this.negative.Text = "±";
             this.negative.UseVisualStyleBackColor = true;
+            this.negative.Click += new System.EventHandler(this.Negative_Click);
             // 
             // leftbrackets
             // 
             this.leftbrackets.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.leftbrackets.Location = new System.Drawing.Point(95, 151);
+            this.leftbrackets.Location = new System.Drawing.Point(210, 134);
             this.leftbrackets.Name = "leftbrackets";
-            this.leftbrackets.Size = new System.Drawing.Size(81, 61);
+            this.leftbrackets.Size = new System.Drawing.Size(199, 61);
             this.leftbrackets.TabIndex = 40;
             this.leftbrackets.Text = "(";
             this.leftbrackets.UseVisualStyleBackColor = true;
@@ -275,9 +276,9 @@
             // rightbrackets
             // 
             this.rightbrackets.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.rightbrackets.Location = new System.Drawing.Point(176, 151);
+            this.rightbrackets.Location = new System.Drawing.Point(410, 134);
             this.rightbrackets.Name = "rightbrackets";
-            this.rightbrackets.Size = new System.Drawing.Size(81, 61);
+            this.rightbrackets.Size = new System.Drawing.Size(199, 61);
             this.rightbrackets.TabIndex = 41;
             this.rightbrackets.Text = ")";
             this.rightbrackets.UseVisualStyleBackColor = true;
@@ -286,9 +287,9 @@
             // back
             // 
             this.back.Font = new System.Drawing.Font("微軟正黑體", 26F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.back.Location = new System.Drawing.Point(258, 151);
+            this.back.Location = new System.Drawing.Point(610, 134);
             this.back.Name = "back";
-            this.back.Size = new System.Drawing.Size(113, 61);
+            this.back.Size = new System.Drawing.Size(199, 61);
             this.back.TabIndex = 42;
             this.back.Text = "Back";
             this.back.UseVisualStyleBackColor = true;
@@ -297,11 +298,11 @@
             // textBox2
             // 
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.Font = new System.Drawing.Font("新細明體", 40F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.textBox2.Font = new System.Drawing.Font("微軟正黑體", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.textBox2.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.textBox2.Location = new System.Drawing.Point(12, 17);
+            this.textBox2.Location = new System.Drawing.Point(10, 13);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(357, 64);
+            this.textBox2.Size = new System.Drawing.Size(799, 54);
             this.textBox2.TabIndex = 43;
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -309,7 +310,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(381, 461);
+            this.ClientSize = new System.Drawing.Size(818, 447);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.back);
             this.Controls.Add(this.rightbrackets);
